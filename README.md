@@ -1,6 +1,10 @@
 # Contact Management System - MERN Stack
+## Project Preview
+
+![Contact Management System Screenshot](./screenshots/contact-management-home.png)
 
 A full-stack Contact Management System built using the MERN stack. This project allows users to create, view, search, filter, update, and delete contact records. Contact data is stored in MongoDB Atlas and managed through a Node.js and Express.js backend API.
+
 
 ## Features
 
